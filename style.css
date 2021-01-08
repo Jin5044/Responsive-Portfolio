@@ -1,0 +1,11 @@
+.navbar-brand
+{
+    font-weight: 800;
+    font-size: 2em;
+    color: rgb(13, 17, 227);
+}
+.navbar-light .navbar-nav .nav-item.active .nav-link
+{
+    Background: rgb(34, 66, 102)
+    color: #fff;
+}
